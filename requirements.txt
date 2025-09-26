@@ -1,0 +1,19 @@
+# Core backend
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# AI / ML
+torch
+transformers
+sentence-transformers
+faiss-cpu
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# HTTP / API utilities
+httpx
